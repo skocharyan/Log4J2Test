@@ -1,0 +1,8 @@
+19:30:19.808 [main] INFO  com.example.first.MainFirst - hello i am printing Info from mainFirst class
+19:30:19.810 [main] ERROR com.example.first.MainFirst - hello i am printing error from mainfirst class
+19:30:19.810 [main] DEBUG com.example.first.MainFirst - hell i am printing debug from mainFirst
+19:30:19.810 [main] FATAL com.example.first.MainFirst - hello i am printing faital from mainFirst
+22:12:17.784 [main] INFO  com.example.first.MainFirst - hello i am printing Info from mainFirst class
+22:12:17.786 [main] ERROR com.example.first.MainFirst - hello i am printing error from mainfirst class
+22:12:17.787 [main] DEBUG com.example.first.MainFirst - hell i am printing debug from mainFirst
+22:12:17.787 [main] FATAL com.example.first.MainFirst - hello i am printing faital from mainFirst
